@@ -1,0 +1,33 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  background-color:whitesmoke;
+ 
+}
+
+.wrapper{
+  text-align:center;
+}
+
+.main{
+  height:80px;
+  background-color: whitesmoke;
+  
+}
+
+.container{
+  background-color:whitesmoke;
+}
+
+.row{
+  font-size: 1.5em;
+}
+
+.Paradise{
+  height:242px;
+  width:255px;
+}
+.button{
+  text-align:center;
+}
+
+
